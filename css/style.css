@@ -55,18 +55,25 @@ title{
     border-radius: 12px;
     box-shadow: 0 3px 20px rgba(0, 0, 0, 0.6);
 }
+.info-panel img{
+    width:250px;
+    padding-left: 25px;
+}
 
 .info-panel h4 {
+
     font-size: 16px;
     font-weight: bold;
     margin-top: 20px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .info-panel p {
     font-size: 14px;
     font-weight: lighter;
     color: #acacac;
+    text-align: center;
 }
 
 
