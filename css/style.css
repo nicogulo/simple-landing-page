@@ -1,16 +1,21 @@
-
+.title{
+    
+}
 
 /* Navbar */
 .navbar-brand {
     font: 32px Viga;
 }
-
+.nav-link{
+    background-color: #0B63DC;
+    border-style: outset;
+}
 
 /* Jumbotron */
 .jumbotron {
-    background: url(../img/jumbotron-bg.jpg);
+    background: url(../img/DJI_0046.jpg);
     background-size: cover;
-    height: 540px;
+    height: 300px;
     position: relative;
     z-index: -1;
 }
