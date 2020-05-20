@@ -105,5 +105,6 @@ main p a:hover{
  * Footer
  */
 .mastfoot {
+  background-color: white;
   color: rgba(255, 255, 255, .5);
 }
